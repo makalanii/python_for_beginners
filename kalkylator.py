@@ -1,4 +1,4 @@
-#Uppgift: Projektuppgift alternativ 1. Enkel miniräknare.
+#Create a simple command line calculator
 class Kalkylator:
 #Create a class that enables the four arithmetic methods
 
