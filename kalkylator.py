@@ -1,6 +1,9 @@
 #Create a simple command line calculator
-class Kalkylator:
-#Create a class that enables the four arithmetic methods
+class Kalkylator:                                                   		#Create a class that enables the four arithmetic methods
+    def _init_(self, x, y):
+        self.x = x
+        self.y = y    
+
 
     def addera(self,x,y):                                           		#define addition method                          
         self.x=x
